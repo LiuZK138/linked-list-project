@@ -26,10 +26,10 @@
 
 ## 项目结构
 linked-list-project/
-├── linkedlist.h # 头文件：结构体定义与函数声明
-├── linkedlist.c # 源文件：链表核心功能的实现
-├── main.c # 测试文件：包含所有功能的测试代码
-└── LinkedListProject.sln # Visual Studio 解决方案文件
+ -linkedlist.h # 头文件：结构体定义与函数声明
+ -linkedlist.c # 源文件：链表核心功能的实现
+ -main.c # 测试文件：包含所有功能的测试代码
+ -LinkedListProject.sln # Visual Studio 解决方案文件
 
 ## 关于作者
 LiuZK - 考研准备期间学习数据结构完成的项目，用于巩固C语言和数据结构基础。
